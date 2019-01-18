@@ -2,3 +2,7 @@
 	path = Marlin
 	url = https://github.com/lanserge/Marlin.git
 	branch = bugfix-2.0.x
+[submodule "cmake_arduino_local_install"]
+	path = cmake_arduino_local_install
+	url = https://github.com/lanserge/cmake_arduino_local_install.git
+	branch = master
